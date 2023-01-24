@@ -14,7 +14,7 @@ void printstr(char *s)
 	int a, i;
 
 	a = strlen(s);
-	for (i = 0; i <= a; i ++)
+	for (i = 0; i <= a; i++)
 	{
 		if (i < a)
 		{
