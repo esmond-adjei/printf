@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	_printf("%b", 98);
+	_putchar('c');
+	_putchar('\n');
 	return (0);
 }
